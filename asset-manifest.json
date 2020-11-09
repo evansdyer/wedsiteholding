@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wedsiteholding/static/css/main.9c7073de.chunk.css",
+    "main.js": "/wedsiteholding/static/js/main.ab60421e.chunk.js",
+    "main.js.map": "/wedsiteholding/static/js/main.ab60421e.chunk.js.map",
+    "runtime-main.js": "/wedsiteholding/static/js/runtime-main.b402a9a0.js",
+    "runtime-main.js.map": "/wedsiteholding/static/js/runtime-main.b402a9a0.js.map",
+    "static/js/2.bc7810e4.chunk.js": "/wedsiteholding/static/js/2.bc7810e4.chunk.js",
+    "static/js/2.bc7810e4.chunk.js.map": "/wedsiteholding/static/js/2.bc7810e4.chunk.js.map",
+    "index.html": "/wedsiteholding/index.html",
+    "precache-manifest.5f36bc17a2aa12e71809982a6399c1d3.js": "/wedsiteholding/precache-manifest.5f36bc17a2aa12e71809982a6399c1d3.js",
+    "service-worker.js": "/wedsiteholding/service-worker.js",
+    "static/css/main.9c7073de.chunk.css.map": "/wedsiteholding/static/css/main.9c7073de.chunk.css.map",
+    "static/js/2.bc7810e4.chunk.js.LICENSE.txt": "/wedsiteholding/static/js/2.bc7810e4.chunk.js.LICENSE.txt",
+    "static/media/oioi.png": "/wedsiteholding/static/media/oioi.1fd5558a.png",
+    "static/media/main.css": "/wedsiteholding/static/media/us.0f8af960.jpg",
+    "static/media/us-3.jpg": "/wedsiteholding/static/media/us-3.e89af8ff.jpg",
+    "static/media/us-4.jpg": "/wedsiteholding/static/media/us-4.5cf0c7e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b402a9a0.js",
+    "static/js/2.bc7810e4.chunk.js",
+    "static/css/main.9c7073de.chunk.css",
+    "static/js/main.ab60421e.chunk.js"
+  ]
+}
