@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03821ec464e52bdea376ed6fc9ecd401",
+    "revision": "6b57bf3740ccc6766b48f2ae2d2a422c",
     "url": "/wedsiteholding/index.html"
   },
   {
-    "revision": "b66a203e20606bb61fb7",
-    "url": "/wedsiteholding/static/css/main.9c7073de.chunk.css"
+    "revision": "228b39132c4cbbed80c9",
+    "url": "/wedsiteholding/static/css/main.0b8b1a2c.chunk.css"
   },
   {
     "revision": "c356b30bb915e4206613",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wedsiteholding/static/js/2.bc7810e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b66a203e20606bb61fb7",
+    "revision": "228b39132c4cbbed80c9",
     "url": "/wedsiteholding/static/js/main.ab60421e.chunk.js"
   },
   {
